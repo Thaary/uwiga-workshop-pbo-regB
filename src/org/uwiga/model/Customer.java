@@ -4,6 +4,8 @@ import java.util.Date;
 
 public class Customer {
 
+	//INI DALAH TAMBAHAN
+	
 	private String idCustomer;
 	private String name;
 	private String address;
